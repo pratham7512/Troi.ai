@@ -9,16 +9,6 @@ Troi.AI is an AI-powered interview simulator designed to provide a conversationa
 - **Audio Interaction:** Offers voice-based interaction for answering questions.
 - **Typing Support:** Allows candidates to respond to questions through typing.
 
-## Getting Started
-
-### Prerequisites
-
-- [List of software dependencies or libraries required]
-
-### Installation
-
-[Instructions on how to install and set up the project]
-
 ### Usage
 
 1. **Submit Job Description and Resume:** Provide the necessary details to initiate the interview simulation.
@@ -30,19 +20,31 @@ Troi.AI is an AI-powered interview simulator designed to provide a conversationa
 [Provide code snippets or examples demonstrating how to interact with Troi.AI]
 
 ## Contributing
-
-We welcome contributions! If you'd like to contribute to Troi.AI, please follow these steps:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-idea`).
-3. Commit your changes (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature/your-idea`).
-5. Create a Pull Request.
+Contributions to enhance the functionality, accuracy, or expand the knowledge base of Medezy are welcome! Feel free to submit pull requests, report issues, or suggest improvements.
 
 ## License
 
-[Include information about the project's license]
+MIT License
 
-## Contact
+Copyright (c) 2024 Prathamesh Desai
 
-For any inquiries or support, please contact [your contact information].
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
 
