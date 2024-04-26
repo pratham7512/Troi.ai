@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@keyframes blink {
+    0% { background-color: #f56565; } /* Start with a red background */
+    25% { background-color: #b0b4bb; } /* Transition to black */
+    50% { background-color: #f56565; } /* Return to red */
+    75% { background-color: #b0b4bb; } /* Transition back to black */
+    100% { background-color: #f56565; } /* End with a red background */
+}
+
+@keyframes color-change {
+    0% { color: #f56565; }
+    14% { color: #ffffff; }
+    28% { color: #00ff5e; }
+    42% { color: #ffffff; }
+    56% { color: #00b3ff; }
+    74% { color: #ffffff; }
+    100% { color: #ff0000; } 
+}
+
+.blink {
+    animation: blink 2s infinite ease-in-out; /* Apply the blink animation with a smoother transition */
+}
+.color-change {
+    animation:color-change 10s infinite ease-in-out; /* Apply the blink animation with a smoother transition */
+}
+
+/* For Webkit-based browsers (Chrome, Safari and Opera) */
+.no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  
+  /* For IE, Edge and Firefox */
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+/* Define the keyframes for the cursor color animation */
+
+  
