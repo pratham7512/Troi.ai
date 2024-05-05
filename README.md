@@ -16,7 +16,7 @@ Troi.AI is an AI-powered interview simulator designed to provide a conversationa
 3. **Review Performance:** Get feedback on your answers and performance during the simulation.
 
 ### Example
-![Screenshot 1](/assets/Screenshot.png)
+![Screenshot 1](assets/ezgif-4-38f8a0a3c6.gif)
 
 ## Contributing
 Contributions to enhance the functionality, accuracy, or expand the knowledge base of Medezy are welcome! Feel free to submit pull requests, report issues, or suggest improvements.
