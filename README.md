@@ -15,7 +15,13 @@ Troi.AI is an AI-powered interview simulator designed to provide a conversationa
 2. **Engage in Interview:** Answer questions posed by Troi.AI using either voice or text input.
 3. **Review Performance:** Get feedback on your answers and performance during the simulation.
 
-### Example
+
+## Login Page
+
+![Screenshot 2](assets/Screenshot1.jpeg)
+
+## Main page
+
 ![Screenshot 1](assets/ezgif-4-38f8a0a3c6.gif)
 
 ## Contributing
