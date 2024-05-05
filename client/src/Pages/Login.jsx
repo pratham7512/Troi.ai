@@ -17,7 +17,7 @@ function Login() {
     supabase.auth.onAuthStateChange((event) => {
     if(event === "SIGNED_IN"){
         //redirect to success page
-        navigate( "/success" );
+        navigate( "/home" );
     }
 })
     return (

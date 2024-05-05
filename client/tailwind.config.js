@@ -12,6 +12,7 @@ export default {
       colors: {
         gr: '#9ca3af',
         bl: '#171717',
+        rr:'#d01601'
       },
     },
   },

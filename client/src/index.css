@@ -11,13 +11,10 @@
 }
 
 @keyframes color-change {
-    0% { color: #f56565; }
-    14% { color: #ffffff; }
-    28% { color: #00ff5e; }
-    42% { color: #ffffff; }
-    56% { color: #00b3ff; }
-    74% { color: #ffffff; }
-    100% { color: #ff0000; } 
+    0% { bacground-color: #f56565; }
+    28% { bacground-color: #00ff5e; }
+    56% { bacground-color: #00b3ff; }
+    100% { bacground-color: #ff0000; } 
 }
 
 .blink {
@@ -39,4 +36,15 @@
   }
 /* Define the keyframes for the cursor color animation */
 
-  
+/* For Webkit-based browsers (Chrome, Safari and Opera) */
+.scrollable-content::-webkit-scrollbar {
+    background-color: transparent;
+}
+.scrollable-content::-webkit-scrollbar {
+    width: 10px; /* Width of the scrollbar */
+  }
+.scrollable-content::-webkit-scrollbar-thumb {
+    background-color: rgb(69,69,69); /* Color for the scrollbar thumb */
+    border-radius: 6px; /* Roundness of the thumb */
+    height: 100px;
+}
