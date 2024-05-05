@@ -5,28 +5,42 @@ Troi.AI is an AI-powered interview simulator designed to provide a conversationa
 ## Features
 
 - **Chat Interface:** Engage in interview-like conversations through text and voice inputs.
-- **AI Questioning:** Utilizes large language models (LLMs) and natural language processing algorithms to generate interview questions based on submitted job descriptions and resumes.
-- **Audio Interaction:** Offers voice-based interaction for answering questions, with the AI interviewer's responses converted to audio using text-to-speech technology.
+- **AI Questioning:** Utilizes AI algorithms to generate interview questions based on submitted job descriptions and resumes.
+- **Audio Interaction:** Offers voice-based interaction for answering questions.
 - **Typing Support:** Allows candidates to respond to questions through typing.
 
 ### Usage
 
-1. **Submit Job Description and Resume:** Provide the necessary details, such as the job description and resume, to initiate the interview simulation.
+1. **Submit Job Description and Resume:** Provide the necessary details to initiate the interview simulation.
 2. **Engage in Interview:** Answer questions posed by Troi.AI using either voice or text input.
 3. **Review Performance:** Get feedback on your answers and performance during the simulation.
 
-### Architecture
-
-- **Frontend:** Built using React and Tailwind
-- **Backend:** Developed with Node.JS and ExpressJS for handling API calls
-- **Authentication:** Utilizes Supabase and PostgreSQL for user authentication and management
-- **Database:** Employs MongoDB for storing chat conversations and user data
-- **APIs:** Integrates with GROQ (LLM) for natural language processing and question generation, and ElevenLabs (TTS) for text-to-speech conversion
-
 ### Example
-
-![Screenshot 1](/assets/Screenshot.png)
+![Screenshot 1](assets/ezgif-4-38f8a0a3c6.gif)
 
 ## Contributing
+Contributions to enhance the functionality, accuracy, or expand the knowledge base of Medezy are welcome! Feel free to submit pull requests, report issues, or suggest improvements.
 
-Contributions to enhance the functionality, accuracy, or expand the knowledge base of Troi.AI are welcome! Feel free to submit pull requests, report issues, or suggest improvements.
+## License
+
+MIT License
+
+Copyright (c) 2024 Prathamesh Desai
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
